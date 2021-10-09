@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Manteshwari Pipare.
+I am Manteshwari Pipare.I am 3rd year student of Computer Science Engineering.
 
 
 - 🔭 I’m currently working on Python Projects.
