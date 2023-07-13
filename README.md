@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Manteshwari Pipare.I am 3rd year student of Computer Science Engineering.
+I am Manteshwari Pipare.Dedicated and enthusiastic Computer Science and Engineering fresher with a strong academic background and a genuine passion for technology. To contribute to the development of impactful software solutions using my technical skills, critical thinking abilities, and problem-solving mindset. Eager to learn from experienced professionals, adapt to new technologies, and work collaboratively in a dynamic and challenging environment. My objective is to make a positive impact, continuously grow both professionally and personally, and establish a successful career in the field of CSE.
 
 
 - 🔭 I’m currently working on Python Projects.
